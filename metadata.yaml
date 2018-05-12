@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41818
     wikipedia: http://www.gutenberg.org/browse/authors/n#a41476
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42687#The-Seven-Sleuths-Club
 gutenberg_issued: '2013-05-11'
 gutenberg_type: Text
 identifiers:
