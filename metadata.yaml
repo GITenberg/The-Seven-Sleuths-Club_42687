@@ -1,0 +1,29 @@
+_repo: The-Seven-Sleuths-Club_42687
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42687-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Norton, Carol
+    birthdate: 1876
+    gutenberg_agent_id: '41818'
+    url: http://www.gutenberg.org/2009/agents/41818
+    wikipedia: http://www.gutenberg.org/browse/authors/n#a41476
+description: ''
+gutenberg_issued: '2013-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42687'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Women detectives -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcc 'PZ'
+- !lcsh 'Young women -- Societies and clubs -- Juvenile fiction'
+title: The Seven Sleuths' Club
+url: http://www.gutenberg.org/ebooks/42687
